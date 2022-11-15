@@ -5,7 +5,11 @@ Simulation is one of the crucial parts of the autonomous vehicle stack. It has i
 I used this simulator as a part of the SAEindia competition. As part of this competition, the initial round is to create challenging scenarios to be solved in further stages by selecting the proper sensor suite and algorithm. I worked on abnormal weather conditions like a dense fog scenario where even human drivers face it as a challenge. I recreated this scenario in the IPGCarmaker3 simulator. 
 
 
-https://user-images.githubusercontent.com/89637330/201992475-79da9445-744f-4d2e-9b8e-2b9c7f829ea3.mp4
+
+
+https://user-images.githubusercontent.com/89637330/201994991-6775f8ae-0e14-4e19-8862-e95d68f4083e.mp4
+
+
 
 
 
